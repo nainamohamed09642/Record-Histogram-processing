@@ -24,8 +24,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```python
-# Developed By: SETHUKKARASI C
-# Register Number: 212223230201
+# Developed By: NAINA MOHAMED 5
+# Register Number: 212223230131
 
 import cv2
 import numpy as np
@@ -90,17 +90,20 @@ plt.subplot(122); plt.hist(img_eq.ravel(),256,range = [0, 256]); plt.title('Hist
 ## Output:
 ### Input Grayscale Image and Color Image
 
-<img width="552" height="396" alt="image" src="https://github.com/user-attachments/assets/0fe3fd36-074e-4092-b4e9-52c03c06fa10" />
+<img width="425" height="435" alt="image" src="https://github.com/user-attachments/assets/55b1c537-af21-444f-a982-738ff665ce36" />
 
-<img width="552" height="396" alt="image" src="https://github.com/user-attachments/assets/d0e2ce91-dd39-443a-88a5-a1a44bbef190" />
+
+<img width="425" height="435" alt="image" src="https://github.com/user-attachments/assets/8986fdde-5319-4db8-b83a-87fcafbbe0c4" />
+
 
 ### Histogram of Grayscale Image and any channel of Color Image
 
-<img width="1244" height="374" alt="image" src="https://github.com/user-attachments/assets/5b674dc9-30da-4925-adfd-441554f7cdef" />
+<img width="1236" height="374" alt="image" src="https://github.com/user-attachments/assets/fc4d7bf5-6feb-4a9f-9506-65b039f82d7e" />
+
 
 ### Histogram Equalization of Grayscale Image.
+<img width="569" height="435" alt="image" src="https://github.com/user-attachments/assets/5948ed56-578c-448b-b8c6-d24bad786976" />
 
-<img width="578" height="426" alt="image" src="https://github.com/user-attachments/assets/41fa8121-c91b-4bb4-ae95-6f94d856c08f" />
 
 
 ## Result: 
